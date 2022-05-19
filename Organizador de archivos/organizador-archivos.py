@@ -53,7 +53,7 @@ def creardir(): #Crear Carpetas
 
 #Crear ventana grafica 
 ven= Tk()
-ven.geometry("400x275")
+ven.geometry("600x300")
 ven.resizable(False,False)
 ven.configure(bg = "peach puff")
 ven.title("Organizador de las descargas") 
